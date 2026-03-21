@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">About Me:<br><br>- Building AI-driven applications and full stack solutions  <br>- Exploring Generative AI, ML models,   and DevOps  <br>- Fun fact: Interested in forensics, archaeology, and investigations…  ended up in engineering, focusing on that now  <br>- Contact: vidhyasathyamurthy04@gmail.com</p>
+<p align="left">About Me:<br><br>- Building AI driven applications and full stack solutions  <br>- Exploring Generative AI, ML models,   and DevOps  <br>- Fun fact: Interested in forensics, archaeology, and investigations…  ended up in engineering, focusing on that now  <br>- Contact: vidhyasathyamurthy04@gmail.com</p>
 
 ###
 
