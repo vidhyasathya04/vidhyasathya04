@@ -1,4 +1,4 @@
-## About Me
+## Hi there 👋
 
 - Building AI-driven applications and full stack solutions  
 - Exploring Generative AI, ML models, and DevOps  
